@@ -1,9 +1,9 @@
 # SHOOTER AIRPLANES
 👨‍💻ESTE É UM JOGO DE TIRO NO ESTILO ARCADE, ONDE O JOGADOR CONTROLA UM AVIÃO QUE PODE SE MOVER HORIZONTALMENTE E ATIRAR PROJÉTEIS PARA DESTRUIR INIMIGOS.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="200"> <br> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="200"> <br> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="200"> <br>
 
 ## DESCRIÇÃO:
 Este é um jogo de tiro no estilo arcade, onde o jogador controla um avião que pode se mover horizontalmente e atirar projéteis para destruir inimigos. O objetivo principal é acumular pontos ao destruir os inimigos enquanto evita colisões que resultam em game over. Uma característica marcante desse jogo são os efeitos sonoros.
