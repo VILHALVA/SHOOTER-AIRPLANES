@@ -10,7 +10,7 @@ Este é um jogo de tiro no estilo arcade, onde o jogador controla um avião que 
 
 ## COMO JOGAR?
 - **Execute o Jogo**: 
-  - Abra o terminal (ou prompt de comando) e navegue até a pasta `./main.lua`.
+  - Abra o terminal (ou prompt de comando) e navegue até a pasta `./CODIGO`.
   - Execute o comando:
 
    ```bash
